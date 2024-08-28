@@ -1,0 +1,10 @@
+Dados das eleições de : 2024
+Quantidade de votos candidato Paulo:0
+Quantidade de votos candidato Carlos:1
+Quantidade de votos candidato Maria:0
+Quantidade de votos candidato Paulo:0
+Quantidade de votos candidato Carlos:1
+Quantidade de votos candidato Maria:0
+Quantidade de votos candidato Paulo:0
+Quantidade de votos candidato Carlos:1
+Quantidade de votos candidato Maria:0
